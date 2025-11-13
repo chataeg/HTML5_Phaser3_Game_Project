@@ -20,6 +20,7 @@
 
 ![Desktop_2023_06_02_-_13_13_43_02_AdobeExpress (2)](https://github.com/2023-1-Web-Programming/HTML5_Game_Project/assets/38041722/e596820b-9936-4f4b-9951-c4f200530cc9)
 
+![portfolio_page-0010](https://github.com/user-attachments/assets/a093d1aa-49f5-4053-9036-cca43ee84578)
 
 ![보고서_page-0001](https://github.com/user-attachments/assets/a22fb82b-9296-4f87-8d78-c0866c4e986d)
 
