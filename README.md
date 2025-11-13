@@ -1,5 +1,5 @@
 # HTML5_Game_Project
-Repository of 2023-1-Web-Programming Game Project.
+웹프로그래밍 강의 프로젝트 게임 '동물 농장' 입니다.
 
 # Used Stacks and Frameworks
 1. HTML
